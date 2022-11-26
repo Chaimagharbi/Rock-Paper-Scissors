@@ -1,0 +1,1 @@
+This is my first time creating the famous game 'Rock Paper Scissors' using JS.
